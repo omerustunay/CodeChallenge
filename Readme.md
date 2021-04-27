@@ -4,6 +4,6 @@
 
 ## Application gif image at runtime
 
-![alt tag](https://github.com/omerustunay/Android-App-json-parse/blob/master/img/aaaa.gif "Json App")
+
 
 
