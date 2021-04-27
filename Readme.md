@@ -15,13 +15,8 @@ Kullanılan Dil: Android (Java programlama dili)
 
 Projenin kaynak kodlarına github hesabımdan ulaşabilirsiniz. Projeyi güncel bir android studio ortamında açıp, gerekli kütüphanelerin kurulumu tamamlandıktan sonra aktif olarak kullanabilirsiniz. 
 
+<img src="https://github.com/omerustunay/CodeChallenge/blob/main/img/1.png" width="300" height="450">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/omerustunay/CodeChallenge/blob/main/img/1.png)
+<img src="https://github.com/omerustunay/CodeChallenge/blob/main/img/2.png" width="300" height="450">
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/omerustunay/CodeChallenge/blob/main/img/2.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-![alt text](https://github.com/omerustunay/CodeChallenge/blob/main/img/3.png)
+<img src="https://github.com/omerustunay/CodeChallenge/blob/main/img/3.png" width="300" height="450">
